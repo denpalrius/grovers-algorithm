@@ -4,9 +4,9 @@ Grover’s algorithm is a quantum algorithm that solves the unstructured search 
 
 ## Two Qubit Circuit design
 
-![alt text](2-qubit-circuit.png)
+![alt text](images/2-qubit-circuit.png)
 
 
 ## Three Qubit Circuit design
 
-![alt text](3-qubit-circuit.png)
+![alt text](images/3-qubit-circuit.png)
